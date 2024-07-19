@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on DylanM5</title>
+    <link>https://dylanm5.github.io/tags/</link>
+    <description>Recent content in Tags on DylanM5</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jul 2024 12:32:42 -0400</lastBuildDate><atom:link href="https://dylanm5.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>default</title>
+      <link>https://dylanm5.github.io/tags/default/</link>
+      <pubDate>Thu, 18 Jul 2024 12:32:42 -0400</pubDate>
+      
+      <guid>https://dylanm5.github.io/tags/default/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photography</title>
+      <link>https://dylanm5.github.io/tags/photography/</link>
+      <pubDate>Thu, 18 Jul 2024 12:16:08 -0400</pubDate>
+      
+      <guid>https://dylanm5.github.io/tags/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>portfolio</title>
+      <link>https://dylanm5.github.io/tags/portfolio/</link>
+      <pubDate>Thu, 18 Jul 2024 12:16:08 -0400</pubDate>
+      
+      <guid>https://dylanm5.github.io/tags/portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://dylanm5.github.io/tags/personal/</link>
+      <pubDate>Thu, 18 Jul 2024 12:10:50 -0400</pubDate>
+      
+      <guid>https://dylanm5.github.io/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

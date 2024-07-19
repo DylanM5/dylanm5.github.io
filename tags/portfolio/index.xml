@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>portfolio on DylanM5</title>
+    <link>https://dylanm5.github.io/tags/portfolio/</link>
+    <description>Recent content in portfolio on DylanM5</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jul 2024 12:16:08 -0400</lastBuildDate><atom:link href="https://dylanm5.github.io/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portfolio</title>
+      <link>https://dylanm5.github.io/photography/portfolio/</link>
+      <pubDate>Thu, 18 Jul 2024 12:16:08 -0400</pubDate>
+      
+      <guid>https://dylanm5.github.io/photography/portfolio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
