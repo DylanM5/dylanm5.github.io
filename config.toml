@@ -38,13 +38,18 @@ enableRobotsTXT = true
 
     [[menu.footer]]
         name = "Mastodon"
-        url = "https://example.com/@user"
+        url = "https://mastodon.social/@geeneglungo"
         weight = 2 
+
+    [[menu.footer]]
+        name = "YouTube"
+        url = "https://youtube.com/@geeneglungo"
+        weight = 3 
 
     [[menu.footer]]
         name = "RSS"
         url = "/index.xml"
-        weight = 3
+        weight = 4
 
 [outputs]
   home = ["HTML", "RSS"]
