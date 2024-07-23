@@ -54,5 +54,7 @@ enableRobotsTXT = true
 [outputs]
   home = ["HTML", "RSS"]
 
-
+[Author]
+    name = "Dylan M"
+    email = "geeneglungo@proton.me"
 
