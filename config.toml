@@ -7,7 +7,7 @@ enableRobotsTXT = true
 
 # Parameters
 [params]
-    subtitle = "Hello!"
+    subtitle = ""
     dateFmt = "02.01.2006 15:04"
 
 # Header
@@ -29,6 +29,12 @@ enableRobotsTXT = true
         name = "Tags"
         url = "/tags/"
         weight = 3
+
+  [[menu.main]]
+        identifier = "contact"
+        name = "Contact"
+        url = "/contact/"
+        weight = 4
 
 # Footer
   [[menu.footer]]

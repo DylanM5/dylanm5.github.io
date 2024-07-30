@@ -1,0 +1,5 @@
+github.com/hugomods/icons v0.6.4 h1:SeDMpN2kjc8mbuXfi8zED4IN5IGZmqJdmmUQr9tIpxw=
+github.com/hugomods/icons/vendors/tabler v0.15.38 h1:Ot6XOmjgLMdb6i+dvn0OfRb7vQw4RqGY8InWmiAcfDU=
+github.com/hugomods/icons/vendors/tabler v0.15.38/go.mod h1:otrRdPw4GBJPZBrP+wI9unR98gkLhJut+ugPML1XKVE=
+github.com/hugomods/images v0.11.0 h1:njtKxqLmKIRXwzriosh13aj9BK3iBgJXeQFpYXIzQTM=
+github.com/hugomods/images v0.11.0/go.mod h1:U6Gwj16LKvk66rOMyGFrnF6f0aV8lT89lqOsckOAjYY=
