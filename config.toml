@@ -5,6 +5,8 @@ theme = "smol"
 
 enableRobotsTXT = true
 
+rssLimit = 100
+
 # Parameters
 [params]
     subtitle = ""
