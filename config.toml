@@ -1,6 +1,6 @@
-baseURL = 'https://dylanm5.github.io/'
+baseURL = 'https://geeneglungo.tech/'
 languageCode = 'en-us'
-title = 'DylanM5'
+title = 'Geene Glungo'
 theme = "smol"
 
 enableRobotsTXT = true
@@ -42,31 +42,27 @@ rssLimit = 100
         weight = 4
 
 # Footer
-  [[menu.footer]]
-        name = "Github"
-        url = "https://github.com/DylanM5"
-        weight = 1 
 
     [[menu.footer]]
         name = "Mastodon"
         url = "https://mastodon.social/@geeneglungo"
-        weight = 2 
+        weight = 1
 
     [[menu.footer]]
         name = "YouTube"
         url = "https://youtube.com/@geeneglungo"
-        weight = 3 
+        weight = 2
 
     [[menu.footer]]
         name = "RSS"
         url = "/index.xml"
-        weight = 4
+        weight = 3
 
 [outputs]
   home = ["HTML", "RSS"]
 
 [Author]
-    name = "Dylan M"
+    name = "Geene Glungo"
     email = "geeneglungo@proton.me"
 
 [module]
